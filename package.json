@@ -1,0 +1,24 @@
+{
+  "name": "birthday-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/devsangho/birthday-bot.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/devsangho/birthday-bot/issues"
+  },
+  "homepage": "https://github.com/devsangho/birthday-bot#readme",
+  "dependencies": {
+    "@slack/events-api": "^2.3.3",
+    "node-schedule": "^1.3.2"
+  }
+}
